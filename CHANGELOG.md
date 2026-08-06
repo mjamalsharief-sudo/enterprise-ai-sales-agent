@@ -1,0 +1,3 @@
+
+## CompanyResearchAgent
+- Initial scaffold created.
