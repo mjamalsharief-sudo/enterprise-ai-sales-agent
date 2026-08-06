@@ -1,0 +1,10 @@
+-r base.txt
+
+pytest
+pytest-cov
+httpx
+email-validator
+black
+ruff
+mypy
+pre-commit

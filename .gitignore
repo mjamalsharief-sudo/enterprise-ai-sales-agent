@@ -14,11 +14,11 @@ ENV/
 coverage.xml
 htmlcov/
 
-# Type checking
-.mypy_cache/
-
 # Ruff
 .ruff_cache/
+
+# MyPy
+.mypy_cache/
 
 # IDE
 .vscode/
@@ -35,6 +35,6 @@ htmlcov/
 .env.*
 
 # Build
-build/
 dist/
+build/
 *.egg-info/
